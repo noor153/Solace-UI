@@ -2,6 +2,14 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+## Installation
+
+```bash
+npm install
+```
+
+## Running the app
+
 First, run the development server:
 
 ```bash
@@ -13,6 +21,10 @@ pnpm dev
 # or
 bun dev
 ```
+
+You need to run the backend also to get the user data and view the home page:
+
+Please Setup this repository and run it first ()
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
