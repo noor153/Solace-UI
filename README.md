@@ -24,7 +24,7 @@ bun dev
 
 You need to run the backend also to get the user data and view the home page:
 
-Please Setup this repository and run it first ()
+Please Setup this repository and run it first (https://github.com/noor153/Solace-BE)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
